@@ -18,3 +18,5 @@
 |[2751](https://www.acmicpc.net/problem/2751)|[**수 정렬하기2**](https://github.com/alg0r1thmm/Baekjoon_Study/tree/main/%EC%A0%95%EB%A0%AC/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02%20(2751%EB%B2%88))|정렬|2023.03.01|<img src = "https://static.solved.ac/tier_small/6.svg">|
 |[2231](https://www.acmicpc.net/problem/2231)|[**분해합**](https://github.com/alg0r1thmm/Baekjoon_Study/tree/main/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%B6%84%ED%95%B4%ED%95%A9%20(2231%EB%B2%88))|브루트포스 알고리즘|2023.02.25|<img src = "https://static.solved.ac/tier_small/4.svg">|
 |[2605](https://www.acmicpc.net/problem/2605)|[**줄 세우기**](https://github.com/alg0r1thmm/Baekjoon_Study/tree/main/%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0/%EC%A4%84%20%EC%84%B8%EC%9A%B0%EA%B8%B0%20(2605%EB%B2%88))|자료 구조|2023.02.25|<img src = "https://static.solved.ac/tier_small/4.svg">|
+|[15829](https://www.acmicpc.net/problem/15829)|[**Hasing**](https://github.com/alg0r1thmm/Baekjoon_Study/tree/main/%EB%AC%B8%EC%9E%90%EC%97%B4/Hasing%20(15892%EB%B2%88))|문자열|2023.03.01|<img src = "https://static.solved.ac/tier_small/4.svg">|
+
