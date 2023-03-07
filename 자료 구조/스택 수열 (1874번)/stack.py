@@ -1,5 +1,5 @@
 import sys
-# 첫 줄에는 수열의 길이 n을 입력받
+# 첫 줄에는 수열의 길이 n을 입력
 n = int(sys.stdin.readline())
 # 스택 리스트 초기화
 stack = []
